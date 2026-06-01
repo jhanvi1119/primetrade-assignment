@@ -21,6 +21,12 @@ https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
 Fear & Greed Index:
 https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
 
+## Notebook
+
+Main analysis notebook: `notebooks/analysis.ipynb`
+
+Note: GitHub preview may occasionally fail for large notebooks. If preview doesn’t load, click **Raw** or download and open in Jupyter/VS Code.
+
 ### notebooks/analysis.ipynb
 
 Contains:
